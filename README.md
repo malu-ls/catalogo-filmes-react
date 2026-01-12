@@ -39,9 +39,9 @@ Saber utilizar ferramentas de IA não substitui o conhecimento técnico, mas o *
 
 ## 📸 Screenshots
 
-| Página Principal | Filtros Organizados | Modal com Trailer |
+| Página Principal | Filtros Organizados | Modal | Modal com Trailer |
 | :---: | :---: | :---: |
-| ![Grid](https://via.placeholder.com/300x200?text=Grid+Filmes) | ![Filtros](https://via.placeholder.com/300x200?text=Filtros) | ![Modal](https://via.placeholder.com/300x200?text=Modal+Trailer) |
+| ![Grid](src/assets/grid.png) | ![Filtros](src/assets/filtros.png) | ![Modal](src/assets/modal.png) | ![Modal Trailer](src/assets/modal-trailer.png) |
 
 ---
 
