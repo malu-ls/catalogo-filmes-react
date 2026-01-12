@@ -39,9 +39,19 @@ Saber utilizar ferramentas de IA não substitui o conhecimento técnico, mas o *
 
 ## 📸 Screenshots
 
-| Página Principal | Filtros Organizados | Modal | Modal com Trailer |
-| :---: | :---: | :---: |
-| ![Grid](src/assets/grid.png) | ![Filtros](src/assets/filtros.png) | ![Modal](src/assets/modal.png) | ![Modal Trailer](src/assets/modal-trailer.png) |
+Aqui estão os registros visuais da interface final do catálogo.
+
+### Visão Geral de Sistema
+![Página Principal](src/assets/grid.png)
+
+### Filtros
+![Filtros](src/assets/filtros.png)
+
+### Modal
+![Modal](src/assets/modal.png)
+
+### Modal Trailer
+![Modal Trailer](src/assets/modal-trailer.png)
 
 ---
 
